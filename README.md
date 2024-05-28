@@ -1,6 +1,6 @@
 <h2 align="left">HEY! My name is acollet!</h2>
 
-- 🔭 I’m currently working on **Philosophers 42**
+- 🔭 I’m currently working on **MINISHELL 42**
 
 
 
