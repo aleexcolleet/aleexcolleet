@@ -30,6 +30,5 @@
 
 <div>
     <img align="left" height="250" src="https://64.media.tumblr.com/855ae130b2a557485ea7478400afc101/tumblr_ogjx75GlH51rpdptuo1_r1_500.gifv" />
-    <img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d3NWRmMm1vdHl0NXYzZm8zb3Bzb2h6MmNrdzUzeW0ydHJzY2U3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/idmjsrW8izZRK/giphy.gif" />
     <img align="up" height="250" src="https://badge.mediaplus.ma/water/acollet-?1337Badge=off" />
 </div>
