@@ -1,8 +1,4 @@
-<h2 align="left">HEY! My name is acollet!</h2>
-
-- 🔭 I’m currently working on **MINISHELL 42**
-
-
+<h2 align="left">HEY! My name is Alex!</h2>
 
 ###
 
@@ -33,5 +29,4 @@
 
 <div>
     <img align="left" height="250" src="https://64.media.tumblr.com/855ae130b2a557485ea7478400afc101/tumblr_ogjx75GlH51rpdptuo1_r1_500.gifv" />
-    <img align="up" height="250" src="https://badge.mediaplus.ma/water/acollet-?1337Badge=off" />
 </div>
