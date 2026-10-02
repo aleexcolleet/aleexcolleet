@@ -11,7 +11,18 @@
   <a href="https://blackorbit.dev"><img src="https://img.shields.io/badge/Black_Orbit-1a1b27?style=flat-square&logo=vercel&logoColor=white" alt="Black Orbit"></a>
 </p>
 
-###
+### What I've done
+
+**[fixed-income-risk](https://github.com/aleexcolleet/fixed-income-risk)** —
+bond valuation and interest rate risk in Python, from first principles.
+Duration, convexity and DV01 computed analytically and by bumping, with an
+assertion that the two agree. Reproduces the Spanish Treasury's published
+yields to within 0.1bp. No dependencies.
+
+**[MarketMakerLimitBookSim](https://github.com/aleexcolleet/MarketMakerLimitBookSim)** —
+limit order book and market-making simulator in C++17. Decomposes P&L into
+spread capture and adverse selection against a latent value the maker cannot
+see. 5,369 assertions, 33 documented design decisions.
 
 ### What I'm working on
 
